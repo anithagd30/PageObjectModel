@@ -1,2 +1,0 @@
-# PageObjectModel
-Cansr Clinisian POM
