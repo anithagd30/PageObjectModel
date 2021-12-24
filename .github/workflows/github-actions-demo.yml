@@ -9,7 +9,7 @@ jobs:
        - run: |
               pip install -r POM/Clinician/requirements.txt
               cd POM/Clinician/Testcases
-              pytest sample.py
+              pytest test_login.py
 
 
       
