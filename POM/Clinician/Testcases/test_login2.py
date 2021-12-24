@@ -2,6 +2,8 @@ import pytest
 from selenium import webdriver
 from pageObjects.Loginpage import loginpage
 import time
+from selenium.webdriver.chrome.options import Options
+
 
 class Test_001_Login:
     URL = "https://www.cansrdev.com/clinical/dashboard/"
