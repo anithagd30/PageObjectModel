@@ -1,7 +1,7 @@
 import configparser
 
 config = configparser.RawConfigParser()
-config.read("C:\POM\Clinician\Configuration\config.ini")
+config.read("https://github.com/anithagd30/PageObjectModel/blob/97e6313b5c2592fcc5abbfc12eb6a8965abe9941/POM/Clinician/Configuration/config.ini")
 
 class Readconfig:
     @staticmethod
